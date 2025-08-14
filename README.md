@@ -26,4 +26,14 @@ Tech: React + Ant Design, Express + MongoDB, OpenAI, Razorpay.
 - AI code uses OpenAI, you can swap for Hugging Face.
 - Payment is scaffolded with Razorpay, replace with Paytm or Cashfree if desired.
 
+## Screensorts
+1.Upload Resume
+<img width="1024" height="1536" alt="Upload Resume" src="https://github.com/user-attachments/assets/a2310092-c137-4648-93ef-050c822ec630" />
+
+
+2. Pay To Analyze
+   <img width="1024" height="1536" alt="Payment" src="https://github.com/user-attachments/assets/68c97c03-a760-44d5-b64a-20ca68ff86cd" />
+  
+3. Analyzed  Ats Report
+<img width="1024" height="1536" alt="AnalyzedReport" src="https://github.com/user-attachments/assets/48101d28-af0f-4c85-8f6a-f946f2c81283" />
 

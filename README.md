@@ -26,4 +26,4 @@ Tech: React + Ant Design, Express + MongoDB, OpenAI, Razorpay.
 - AI code uses OpenAI, you can swap for Hugging Face.
 - Payment is scaffolded with Razorpay, replace with Paytm or Cashfree if desired.
 
-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
+
